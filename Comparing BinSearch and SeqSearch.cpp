@@ -14,7 +14,6 @@
 #include <chrono>
 
 using namespace std;
-using namespace std::chrono;
 
 //Andrew Virya Victorio_32200091
 struct Patient {
